@@ -6,6 +6,6 @@ Compras de alimentos
 
 
 <div align="center">
-<video src="https://user-images.githubusercontent.com/111712206/232322167-b72f89ef-4fa9-4ff0-a099-a43a4ff3e0ec.mp4" width="640" height="360"
+<video src="https://user-images.githubusercontent.com/111712206/232322167-b72f89ef-4fa9-4ff0-a099-a43a4ff3e0ec.mp4" width="40" height="360"
        </video>
 </div>
